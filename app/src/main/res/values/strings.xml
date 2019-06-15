@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="name_text">Name</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_signup">SIGN UP</string>
+    <string name="book_name">book</string>
+    <string name="charity_name">charity</string>
+    <string name="chat_text">CHAT</string>
+    <string name="personal_text">PERSONAL</string>
+    <string name="cart_text">CART</string>
+    <string name="message_text">MESSAGE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="message">MESSAGE</string>
+    <string name="profile_text">profile</string>
+</resources>

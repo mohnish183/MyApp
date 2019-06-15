@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--tools:showIn="navigation_view">-->
+    <group android:checkableBehavior="single"/>
+        <item android:id="@+id/nav_person"
+            android:icon="@drawable/ic_person"
+            android:title="@string/personal_text"/>
+        <item android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_local_grocery"
+            android:title="@string/cart_text"/>
+        <item android:id="@+id/nav_message"
+            android:icon="@drawable/ic_message"
+            android:title="@string/message_text"
+            />
+        <item android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat"
+            android:title="@string/chat_text"/>
+
+
+
+
+</menu>
